@@ -1,6 +1,6 @@
-HEADER
+# HEADER
 
-**Struct
+## Struct
 ```cpp
 void tampilProvinsi(Province &prov){
 int total = prov.jumlahKabupaten + prov.jumlahKota;
